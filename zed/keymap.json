@@ -1,0 +1,19 @@
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      "ctrl-s": [
+        "task::Spawn",
+        {
+          "task_name": "live-server"
+        }
+      ],
+      "ctrl-x": [
+        "task::Spawn",
+        {
+          "task_name": "Type-Script Complier"
+        }
+      ]
+    }
+  }
+]
