@@ -32,6 +32,6 @@ map super+shift+u     set_background_opacity default
 
 
 # BEGIN_KITTY_THEME
-# Black Metal Gorgoroth
+# Catppuccin-Macchiato
 include current-theme.conf
 # END_KITTY_THEME
