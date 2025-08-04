@@ -1,0 +1,26 @@
+2025/05/25-20:51:56.233 d008 Reusing MANIFEST /home/teejarr/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/25-20:51:56.241 d008 Recovering log #238
+2025/05/25-20:51:56.242 d008 Reusing old log /home/teejarr/.config/discord/Local Storage/leveldb/000238.log 
+2025/05/25-20:52:56.869 d009 Level-0 table #242: started
+2025/05/25-20:52:56.874 d009 Level-0 table #242: 36521 bytes OK
+2025/05/25-20:52:56.879 d009 Delete type=0 #238
+2025/05/25-20:55:26.210 d009 Level-0 table #244: started
+2025/05/25-20:55:26.254 d009 Level-0 table #244: 1030173 bytes OK
+2025/05/25-20:55:26.262 d009 Delete type=0 #241
+2025/05/25-20:55:26.263 d009 Compacting 4@0 + 2@1 files
+2025/05/25-20:55:26.284 d009 Generated table #245@0: 15 keys, 2530207 bytes
+2025/05/25-20:55:26.307 d009 Generated table #246@0: 107 keys, 3571896 bytes
+2025/05/25-20:55:26.307 d009 Compacted 4@0 + 2@1 files => 6102103 bytes
+2025/05/25-20:55:26.312 d009 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/25-20:55:26.312 d009 Delete type=2 #239
+2025/05/25-20:55:26.312 d009 Delete type=2 #237
+2025/05/25-20:55:26.312 d009 Delete type=2 #234
+2025/05/25-20:55:26.312 d009 Delete type=2 #244
+2025/05/25-20:55:26.312 d009 Delete type=2 #242
+2025/05/25-20:55:26.312 d009 Delete type=2 #235
+2025/05/26-14:23:59.826 d009 Level-0 table #248: started
+2025/05/26-14:23:59.917 d009 Level-0 table #248: 26396 bytes OK
+2025/05/26-14:23:59.922 d009 Delete type=0 #243
+2025/05/27-00:03:48.706 d009 Level-0 table #250: started
+2025/05/27-00:03:48.751 d009 Level-0 table #250: 1029617 bytes OK
+2025/05/27-00:03:48.756 d009 Delete type=0 #247

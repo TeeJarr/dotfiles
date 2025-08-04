@@ -1,0 +1,42 @@
+2025/05/25-17:45:17.696 126b Reusing MANIFEST /home/teejarr/.config/obs-studio/plugin_config/obs-browser/Session Storage/MANIFEST-000001
+2025/05/25-17:45:17.696 126b Recovering log #236
+2025/05/25-17:45:17.697 126b Reusing old log /home/teejarr/.config/obs-studio/plugin_config/obs-browser/Session Storage/000236.log 
+2025/05/25-20:34:11.022 126c Level-0 table #240: started
+2025/05/25-20:34:11.029 126c Level-0 table #240: 18134 bytes OK
+2025/05/25-20:34:11.034 126c Delete type=0 #236
+2025/05/25-23:23:26.894 126c Level-0 table #242: started
+2025/05/25-23:23:26.902 126c Level-0 table #242: 16222 bytes OK
+2025/05/25-23:23:26.910 126c Delete type=0 #239
+2025/05/25-23:23:26.910 126c Compacting 4@0 + 1@1 files
+2025/05/25-23:23:26.916 126c Generated table #243@0: 821 keys, 40789 bytes
+2025/05/25-23:23:26.916 126c Compacted 4@0 + 1@1 files => 40789 bytes
+2025/05/25-23:23:26.920 126c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-23:23:26.921 126c Delete type=2 #233
+2025/05/25-23:23:26.921 126c Delete type=2 #240
+2025/05/25-23:23:26.921 126c Delete type=2 #237
+2025/05/25-23:23:26.921 126c Delete type=2 #242
+2025/05/25-23:23:26.921 126c Delete type=2 #235
+2025/05/26-02:07:18.006 126c Level-0 table #245: started
+2025/05/26-02:07:18.043 126c Level-0 table #245: 17336 bytes OK
+2025/05/26-02:07:18.048 126c Delete type=0 #241
+2025/05/26-04:56:30.607 126c Level-0 table #247: started
+2025/05/26-04:56:30.614 126c Level-0 table #247: 16185 bytes OK
+2025/05/26-04:56:30.619 126c Delete type=0 #244
+2025/05/26-07:45:03.128 126c Level-0 table #249: started
+2025/05/26-07:45:03.199 126c Level-0 table #249: 16190 bytes OK
+2025/05/26-07:45:03.205 126c Delete type=0 #246
+2025/05/26-10:14:10.852 126c Level-0 table #251: started
+2025/05/26-10:14:10.920 126c Level-0 table #251: 17325 bytes OK
+2025/05/26-10:14:10.925 126c Delete type=0 #248
+2025/05/26-10:14:10.925 126c Compacting 4@0 + 1@1 files
+2025/05/26-10:14:10.930 126c Generated table #252@0: 821 keys, 40790 bytes
+2025/05/26-10:14:10.930 126c Compacted 4@0 + 1@1 files => 40790 bytes
+2025/05/26-10:14:10.935 126c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-10:14:10.935 126c Delete type=2 #245
+2025/05/26-10:14:10.935 126c Delete type=2 #247
+2025/05/26-10:14:10.935 126c Delete type=2 #243
+2025/05/26-10:14:10.935 126c Delete type=2 #251
+2025/05/26-10:14:10.935 126c Delete type=2 #249
+2025/05/26-12:41:13.525 126c Level-0 table #254: started
+2025/05/26-12:41:13.545 126c Level-0 table #254: 17991 bytes OK
+2025/05/26-12:41:13.551 126c Delete type=0 #250

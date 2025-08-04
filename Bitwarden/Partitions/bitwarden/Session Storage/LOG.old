@@ -1,2 +1,3 @@
-2025/02/28-10:05:32.090 76f Creating DB /home/teejarr/.config/Bitwarden/Partitions/bitwarden/Session Storage since it was missing.
-2025/02/28-10:05:32.107 76f Reusing MANIFEST /home/teejarr/.config/Bitwarden/Partitions/bitwarden/Session Storage/MANIFEST-000001
+2025/05/06-01:28:48.423 110d Reusing MANIFEST /home/teejarr/.config/Bitwarden/Partitions/bitwarden/Session Storage/MANIFEST-000001
+2025/05/06-01:28:48.423 110d Recovering log #3
+2025/05/06-01:28:48.424 110d Reusing old log /home/teejarr/.config/Bitwarden/Partitions/bitwarden/Session Storage/000003.log 
