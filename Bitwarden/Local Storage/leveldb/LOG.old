@@ -1,3 +1,3 @@
-2025/05/06-01:28:15.240 110d Reusing MANIFEST /home/teejarr/.config/Bitwarden/Local Storage/leveldb/MANIFEST-000001
-2025/05/06-01:28:15.250 110d Recovering log #3
-2025/05/06-01:28:15.251 110d Reusing old log /home/teejarr/.config/Bitwarden/Local Storage/leveldb/000003.log 
+2025/08/23-19:52:34.801 18737 Reusing MANIFEST /home/teejarr/.config/Bitwarden/Local Storage/leveldb/MANIFEST-000001
+2025/08/23-19:52:34.812 18737 Recovering log #3
+2025/08/23-19:52:34.813 18737 Reusing old log /home/teejarr/.config/Bitwarden/Local Storage/leveldb/000003.log 

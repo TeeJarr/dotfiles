@@ -42,3 +42,37 @@
 5/25/2025, 8:51:57 PM MST 9: window.closed win1
 5/25/2025, 8:51:57 PM MST 10: ✅ webContents.did-finish-load web2
 5/27/2025, 12:08:31 AM MST 11: before-quit
+8/7/2025, 7:24:30 PM MST 0: 
+
+----------------------------------------------
+8/7/2025, 7:24:30 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/7/2025, 7:24:30 PM MST 2: ✅ webContents.created web1 ""
+8/7/2025, 7:24:30 PM MST 3: ✅ window.created win1 "discord"
+8/7/2025, 7:24:30 PM MST 4: ✅ webContents.did-finish-load web1
+8/7/2025, 7:24:32 PM MST 5: before-quit
+8/22/2025, 8:35:33 PM MST 0: 
+
+----------------------------------------------
+8/22/2025, 8:35:33 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/22/2025, 8:35:33 PM MST 2: ✅ webContents.created web1 ""
+8/22/2025, 8:35:33 PM MST 3: ✅ window.created win1 "discord"
+8/22/2025, 8:35:33 PM MST 4: ✅ webContents.did-finish-load web1
+8/22/2025, 8:35:38 PM MST 5: window.close win1
+8/22/2025, 8:36:59 PM MST 0: 
+
+----------------------------------------------
+8/22/2025, 8:36:59 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/22/2025, 8:36:59 PM MST 2: ✅ webContents.created web1 "Discord Updater"
+8/22/2025, 8:36:59 PM MST 3: ✅ window.created win1 "Discord Updater"
+8/22/2025, 8:36:59 PM MST 4: ✅ webContents.did-finish-load web1
+8/22/2025, 8:37:09 PM MST 5: window.close win1
+8/22/2025, 8:37:09 PM MST 6: webContents.destroyed web1
+8/24/2025, 6:41:46 PM MST 0: 
+
+----------------------------------------------
+8/24/2025, 6:41:46 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/24/2025, 6:41:46 PM MST 2: ✅ webContents.created web1 ""
+8/24/2025, 6:41:47 PM MST 3: ✅ window.created win1 "discord"
+8/24/2025, 6:41:47 PM MST 4: ✅ webContents.did-finish-load web1
+8/24/2025, 6:41:49 PM MST 5: window.close win1
+8/24/2025, 6:41:49 PM MST 6: webContents.destroyed web1
